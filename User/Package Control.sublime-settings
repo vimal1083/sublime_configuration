@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoPEP8",
+		"Babel",
+		"Emmet",
+		"Fold Python",
+		"Javascript Beautify",
+		"JavaScript Completions",
+		"JavaScriptNext - ES6 Syntax",
+		"Jedi - Python autocompletion",
+		"MoveTab",
+		"Package Control",
+		"PlainTasks",
+		"rsub",
+		"ShellCommand",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeREPL"
+	]
+}
